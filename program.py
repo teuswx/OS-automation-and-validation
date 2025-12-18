@@ -53,7 +53,7 @@ if __name__ == "__main__":
         sys.exit()
     separar_terceiras()
 
-    nome_planilha = 'DIGINET TECNOLOGIA DIVINOPOLIS'
+
 
     df_aux_garantias = pd.read_excel('AuxPlanilhas/AUX GARANTIA.xlsm', sheet_name='AUX Garantias')
 
